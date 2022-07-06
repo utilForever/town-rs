@@ -1,5 +1,5 @@
 [package]
-name = "town-rs"
+name = "town"
 version = "0.1.0"
 authors = [ "Chris Ohk <utilforever@gmail.com>" ]
 edition = "2021"
